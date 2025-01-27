@@ -2,7 +2,14 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
     font-size: 20px;
     color: #000;
-    background: #00ab0e url("img/images.jpg") repeat 50%;
+    background:  #326717 url("img/bg.jpg") no-repeat center top /100%;
+}
+
+#highlights {
+    width: 600px;
+    background: rgba(0,200,0,0.1);
+    padding: 20px;
+    margin: 20px 0;
 }
 
 h1 {
@@ -17,4 +24,9 @@ p {
 
 img{
     width: 100px;    
+}
+
+footer{
+    background-color: #000000;
+    color: #fff;
 }
